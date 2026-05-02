@@ -1,7 +1,7 @@
-# Manu Marketing Assets
+# Manu Games — Marketing Assets
 
 Public downloads and shared assets for [The Assembly Line](https://blog.manugames.com)
-newsletter and [Manu Idle](https://manugames.com).
+newsletter and [Tideward](https://manugames.com), our flagship idle RPG for Apple devices.
 
 ## What's in here
 
@@ -16,7 +16,7 @@ newsletter and [Manu Idle](https://manugames.com).
 
 ## Not in here
 
-The newsletter source files, research library, and Manu Idle development assets
+The newsletter source files, research library, and Tideward development assets
 live in a separate private repo. This repo is only the public-facing stuff.
 
 ## Maintained by
