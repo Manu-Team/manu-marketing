@@ -1,18 +1,20 @@
 # Manu Games, Marketing Assets
 
 Public downloads and shared assets for [The Assembly Line](https://blog.manugames.com)
-newsletter and [Tideward](https://manugames.com), our flagship idle RPG for Apple devices.
+newsletter and [Tideward](https://tideward.app), our flagship idle RPG for Apple devices.
 
 ## What's in here
 
-- **Lead magnet PDFs**, the Factory Game Starter Guide (12 pages) and the Factory
-  Optimization Checklist (1 page). Both delivered to subscribers via the newsletter.
+- **Lead magnet PDFs**, the Factory Game Starter Guide (12 pages), the Factory
+  Optimization Checklist (1 page), and the Idle RPG Starter Guide (8 pages). All
+  delivered to subscribers via the newsletter.
 - **Press kit assets** *(coming July 2026)*, game key art, screenshots, logos.
 
 ## Direct download links
 
 - [Factory Game Starter Guide (PDF)](https://raw.githubusercontent.com/Manu-Team/manu-marketing/main/factory-game-starter-guide.pdf)
 - [Factory Optimization Checklist (PDF)](https://raw.githubusercontent.com/Manu-Team/manu-marketing/main/factory-optimization-checklist.pdf)
+- [Idle RPG Starter Guide (PDF)](https://raw.githubusercontent.com/Manu-Team/manu-marketing/main/idle-rpg-starter-guide.pdf)
 
 ## Not in here
 
