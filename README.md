@@ -9,6 +9,10 @@ newsletter and [Tideward](https://tideward.app), our flagship idle RPG for Apple
   Optimization Checklist (1 page), and the Idle RPG Starter Guide (8 pages). All
   delivered to subscribers via the newsletter.
 - **Press kit assets** *(coming July 2026)*, game key art, screenshots, logos.
+- **`docs/research/`**, deep-research reference files supporting the press kit
+  and asset decisions. See [`docs/research/INDEX.md`](docs/research/INDEX.md).
+  Note: this folder is public; we keep it limited to industry-source-cited
+  reference material with no Tideward secrets.
 
 ## Direct download links
 
