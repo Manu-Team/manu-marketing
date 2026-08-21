@@ -2,9 +2,9 @@
 
 > Deep-research files supporting decisions about what to put in this **public** GitHub repo (`Manu-Team/manu-marketing`).
 >
-> **Filed:** 2026-06-01 (first batch — 3 files).
+> **Filed:** 2026-06-01, 16 files (15 research files + the intake summary). Index reconciled 2026-08-21.
 >
-> ⚠️ **This repo is PUBLIC.** Anything in `docs/research/` is on the open web. Don't put NDA material, private contacts, embargoed pre-announcements, or anything that would burn Seth if a competitor read it. These three files are deliberately suitable for public visibility — they cite industry sources and contain no Tideward secrets.
+> ⚠️ **This repo is PUBLIC.** Anything in `docs/research/` is on the open web. Don't put NDA material, private contacts, embargoed pre-announcements, or anything that would burn Seth if a competitor read it. These files are deliberately suitable for public visibility — they cite industry sources and contain no Tideward secrets.
 
 ---
 
@@ -15,6 +15,11 @@ The marketing repo is the **public distribution point** for lead magnets (Factor
 ---
 
 ## Files
+
+**Read this first:** [`2026-06-01-research-intake.md`](2026-06-01-research-intake.md) — a reflective
+summary of the whole batch, grouped into five clusters, written to help you decide whether any of this
+material is worth pulling for the task in front of you. Start there, then come back to the tables below
+for the specific file.
 
 ### Wave 1 (2026-06-01)
 
@@ -54,6 +59,12 @@ The marketing repo is the **public distribution point** for lead magnets (Factor
 | File | Tier | What it answers |
 |---|---|---|
 | [`press-release-distribution-services.md`](press-release-distribution-services.md) | COOL | **Skip paid wires** (PRWeb $99-$455, GlobeNewswire $600-$1,200, Business Wire $400-$2,750+, EIN $149) — they reach financial/SEO syndicates, not Tier-A gaming inboxes. Skip PR agencies ($6k-$18k floor). Recommended hybrid: direct personalized outreach to 10-15 named writers + self-hosted press kit at `tideward.app/press` + Bluesky/X/Reddit amplification, $0 cash. |
+
+### Also filed 2026-06-01 (wave not recorded)
+
+| File | Tier | What it answers |
+|---|---|---|
+| [`asset-cdn-strategy-versioning.md`](asset-cdn-strategy-versioning.md) | WARM | Where public assets should live as the press kit grows: **Cloudflare R2 on a custom domain** (`assets.tideward.app`) over `raw.githubusercontent.com`, which GitHub rate-limits and which cannot be 301-redirected. Path versioning for press kits (`/press/v1/`), content-hash filenames for one-offs, three-phase additive migration. B2 and S3 rejected with numbers. **Not executed: R2 was never stood up.** The intake groups it with `promo-code-testflight-distribution.md` and `custom-product-page-variants.md` as the asset-hosting cluster. |
 
 ---
 

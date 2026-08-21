@@ -52,7 +52,7 @@ Distilled from Apple's official **App Previews** marketing page plus the App Rev
 - **Show gameplay, not cutscenes.** Apple specifically calls out that cutscenes mislead users about what the app actually plays like. Cutscene-heavy previews routinely get rejected as "do not sufficiently reflect the app in use."
 - **No marketing claims, no comparisons.** Don't say "#1 RPG," don't superimpose pricing ("only $4.99"), don't compare to other apps. Pricing varies by locale and ages the asset; superlatives get rejected for being unverifiable.
 - **No seasonal or dated references.** "New for spring 2026" ages your video the day you launch.
-- **Disclose IAP / subscription / login** if any of those appear. Tideward is a premium one-time purchase, so no disclosure copy is required from that angle — but if a future expansion ships as IAP, the preview must say so.
+- **Disclose IAP / subscription / login** if any of those appear. Tideward is a premium one-time purchase, so no disclosure copy is required from that angle. If that ever changes, the preview has to say so.
 - **You own the music.** Stock royalty-free is fine if you have a license that covers "marketing use across all territories." Pulled-from-the-game music is fine. Random YouTube background tracks will get the video pulled.
 - **Subtitles / on-screen captions are permitted.** Music is permitted. Voiceover is permitted but discouraged (see below).
 - **Tap indicators required** wherever on-screen interaction matters to comprehension. Apple's language: "If you need to demonstrate how interaction or navigation works within your app, you may add graphic elements, such as touch hotspots."

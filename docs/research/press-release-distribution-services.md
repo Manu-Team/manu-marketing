@@ -13,7 +13,7 @@ For Tideward, paid press release distribution services (PRWeb, GlobeNewswire, Bu
 
 ## Why Direct Outreach Wins for Tideward
 
-The Tideward press strategy already lives in [`Press_Launch_Day_Playbook.md`](../../../tideward-website/docs/Press_Launch_Day_Playbook.md): the realistic Tier-A list is **five outlets** — MacStories, 9to5Mac Indie Spotlight, Pocket Gamer, Pocket Tactics, and AppAdvice. Each has named writers who reply when pitched well.
+The Tideward press strategy already lives in [`Press_Launch_Day_Playbook.md`](../../../tideward-website/docs/research/Press_Launch_Day_Playbook.md): the realistic Tier-A list is **five outlets** — MacStories, 9to5Mac Indie Spotlight, Pocket Gamer, Pocket Tactics, and AppAdvice. Each has named writers who reply when pitched well.
 
 The empirical finding from indie devs who've placed coverage: reaching out personally to 5 journalists / creators who consistently cover your genre converts better than mass-blasting 500. Email personalization — even just the writer's first name and a one-sentence "why I'm pitching *you* specifically" — produces a ~60% higher click-through than impersonal mass sends ([Game If You Are](https://gameifyouare.com/2019/02/08/why-journalists-ignore-your-pr-emails/)). Journalists explicitly say they ignore form-letter BCCs.
 
@@ -73,7 +73,7 @@ Tideward's press kit research (see [`press-kit-industry-standards.md`](press-kit
 
 The recommended launch posture:
 
-1. **Direct outreach to 10–15 named writers**, batched across the realistic Tier A from [`Press_Launch_Day_Playbook.md`](../../../tideward-website/docs/Press_Launch_Day_Playbook.md) plus indie-gaming generalists (Game Developer, RPS, Eurogamer indie desk) plus genre niches (AlphaBetaGamer for browser/idle coverage).
+1. **Direct outreach to 10–15 named writers**, batched across the realistic Tier A from [`Press_Launch_Day_Playbook.md`](../../../tideward-website/docs/research/Press_Launch_Day_Playbook.md) plus indie-gaming generalists (Game Developer, RPS, Eurogamer indie desk) plus genre niches (AlphaBetaGamer for browser/idle coverage).
 2. **Press kit URL on every email** at `tideward.app/press` — journalists click before they reply.
 3. **Bluesky / X amplification** of the launch post, plus the `r/incremental_games` post per the playbook in that folder. These are the surfaces where Tideward's actual buyer lives.
 4. **No distribution service.** No PR agency. Total cash cost: $0. Total time cost: ~10 hours of personalized writing + the press-kit build (already in flight).

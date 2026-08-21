@@ -168,7 +168,7 @@ The honest awards math for a premium iOS-only idle RPG:
 | **Apr 2027** | TGA Best Indie 2027 calendar starts (TGA 2027 will look at 2027 releases). Focus on editorial coverage targets that feed the TGA jury. |
 | **Jul 2027** | TIGA Games Industry Awards 2027 deadline. Free entry — submit. |
 | **Aug 2027** | BAFTA 2028 entries open. Decide on early-bird (£220 +VAT). |
-| **Sep–Oct 2027** | IGF 2028 deadline (if any post-launch update or DLC qualifies). |
+| **Sep–Oct 2027** | IGF 2028 deadline (if any post-launch update qualifies). |
 | **Nov–Dec 2027** | App Store Awards 2027 (winners announced ~Dec 4 2027). TGA 2027 nominations late Nov; winners early Dec. |
 | **Jan 2028** | Pocket Gamer Awards 13th edition nomination window opens — submit. |
 | **Apr 2028** | BAFTA Games Awards 2028 ceremony. |

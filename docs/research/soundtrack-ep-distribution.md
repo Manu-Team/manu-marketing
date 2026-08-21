@@ -143,7 +143,7 @@ Soundtrack revenue is **Schedule C business income** for the Manu Games LLC, NOT
 - **DistroKid.** Issues 1099-MISC for royalty payouts above $10/yr (low threshold). All streaming royalties from Spotify/Apple/etc. funnel through DistroKid's reporting.
 - **Composer.** If commissioned for $600+ in a calendar year (and they're a US-based individual / single-member LLC), Manu Games LLC issues *them* a 1099-NEC. Get a W-9 before paying.
 
-**Codex integration.** Per [codex/Research/recurring_invoice_automation_spec.md](../../../codex/Research/recurring_invoice_automation_spec.md), Codex tracks LLC revenue and invoice automation. Soundtrack revenue should flow into the same ledger:
+**Ledger integration.** Per [indenture/Research/recurring_invoice_automation_spec.md](../../../indenture/Research/recurring_invoice_automation_spec.md), the LLC ledger app tracks revenue and invoice automation. Soundtrack revenue should flow into the same ledger:
 - Bandcamp payouts → "Soundtrack — Bandcamp" income category
 - DistroKid payouts → "Soundtrack — Streaming Royalties" income category
 - Composer commission → "Music — Commissioned Production" expense category, with W-9 captured at contract signing

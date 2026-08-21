@@ -219,7 +219,7 @@ For Tideward, plan three major press-kit revisions:
 
 - **No private contacts.** The press contact is `press@tideward.app` (a Cloudflare-routed alias), never a personal email. Do not commit a phone number.
 - **No NDA-protected previews.** Anything you'd show only behind an NDA gets staged in `tideward-app/`, not here. NDA assets ship via password-protected R2 buckets or email attachments, not the public press kit.
-- **No pre-announcement embargoed material.** If Tideward is announcing a partnership or DLC, the announcement doc lives in `tideward-app/` until the embargo lifts, then is pushed to `marketing/`.
+- **No pre-announcement embargoed material.** If Tideward is announcing a partnership, the announcement doc lives in `tideward-app/` until the embargo lifts, then is pushed to `marketing/`.
 - **No draft press releases.** Drafts go in a private repo or in `the-assembly-line/`. Only finalized, embargo-cleared releases ship here.
 - **README reminder.** The `marketing/README.md` should include a "Before committing" checklist that future-Seth and future-LLM-sessions see: no contacts, no NDA, no embargoed copy, no draft.
 

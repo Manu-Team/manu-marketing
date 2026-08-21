@@ -1,6 +1,12 @@
 # Asset CDN Strategy + Versioning for Manu Games Public Assets
 
 > Filed: 2026-06-01. Tier: WARM (post-launch asset growth).
+>
+> **Status 2026-08-21:** launch is 2027-02-11, so the T-0 / T-30 / T+90 milestones in the
+> migration plan below land Feb 2027 / Jan 2027 / May 2027, not the June-2026 parentheticals
+> written into the headings. R2 was never stood up: `assets.tideward.app` does not resolve, and
+> the lead magnets are still served from `raw.githubusercontent.com`. The recommendation stands;
+> none of it has been executed.
 
 ## TL;DR
 
@@ -10,10 +16,10 @@ Manu Games today hosts public assets (3 lead-magnet PDFs) directly out of the `M
 
 What lives on a public CDN today, and what's coming:
 
-- **Today (June 2026):** 3 lead-magnet PDFs in `marketing/` (the Melvor-comparison kit, the founder-letter PDF, the soundtrack one-pager). All served via `raw.githubusercontent.com/Manu-Team/manu-marketing/main/...`. Combined ~12 MB.
+- **Today:** 3 lead-magnet PDFs in `marketing/` (`factory-game-starter-guide.pdf`, `factory-optimization-checklist.pdf`, `idle-rpg-starter-guide.pdf`) plus `tideward-testflight-qr.png`. All served via `raw.githubusercontent.com/Manu-Team/manu-marketing/main/...`. Combined ~5 MB. (The June-2026 filing named three different files that were never in this repo; corrected 2026-08-21.)
 - **Press launch (T-0, ~August 2026):** Press kit drops from `press-kit-industry-standards.md` build-out: ~25 assets (key art at 3 resolutions, 8 in-game screenshots at 2 resolutions, 1 logo lockup set with 5 variants, 1 founder photo set, 3 short video loops). Estimated 200 MB.
 - **Blog growth:** Tideward.app blog adds ~8 posts/month with 2-4 images each. Call it ~100 images/year, ~150 MB/year at sensible AVIF/WebP sizes.
-- **Tideward updates:** Each app version (currently v1.0; v1.1 expected Q4 2026) adds a screenshot set per platform (6 platforms x 5 screenshots = 30 images), plus marketing key art revisions. Call it ~50 MB per version.
+- **Tideward updates:** Each app version (currently pre-release; v1.0 ships 2027-02-11) adds a screenshot set per platform (6 platforms x 5 screenshots = 30 images), plus marketing key art revisions. Call it ~50 MB per version.
 - **18-month projection:** ~500 public assets, ~1.5 GB total. Storage cost on R2 = $0.022/month. Egress is the actual cost driver, not storage.
 
 The shape: **always small individually, never huge in aggregate, occasionally spiky on egress**. That maps cleanly to R2's pricing model and badly onto storage-tiered offerings like S3 Glacier or B2 archive tiers.

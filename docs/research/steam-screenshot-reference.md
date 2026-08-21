@@ -1,6 +1,6 @@
 # Steam Screenshot Reference (Cross-Platform Planning)
 > Filed: 2026-06-01. Tier: COOL (only relevant if Steam launch decided).
-> Companion to App Store storyboard work in [../../the-assembly-line/RESEARCH/screenshot-blueprint-strategy.md](../../the-assembly-line/RESEARCH/screenshot-blueprint-strategy.md). See also [../../the-assembly-line/RESEARCH/2026-2027-genre-forecast.md](../../the-assembly-line/RESEARCH/2026-2027-genre-forecast.md) §Tideward implications for the "when to decide Steam" gate.
+> Companion to App Store storyboard work in [../../../the-assembly-line/RESEARCH/screenshot-blueprint-strategy.md](../../../the-assembly-line/RESEARCH/screenshot-blueprint-strategy.md). See also [../../../the-assembly-line/RESEARCH/2026-2027-genre-forecast.md](../../../the-assembly-line/RESEARCH/2026-2027-genre-forecast.md) §Tideward implications for the "when to decide Steam" gate.
 
 ## TL;DR
 - Steam is a widescreen-first storefront. Almost nothing from the App Store portrait composition reuses cleanly: capsules are net-new art, screenshots demand fresh 1920x1080 captures from a Mac build, and the trailer wants 45-75 seconds (not 30). The only reusable assets across the boundary are the logotype, brand glyph, and editorial / press copy.
@@ -162,7 +162,7 @@ The honest accounting: **the logotype, color system, type system, copy, and trai
 
 ## When the Steam Decision Becomes Real
 
-Per [../../the-assembly-line/RESEARCH/2026-2027-genre-forecast.md](../../the-assembly-line/RESEARCH/2026-2027-genre-forecast.md) §Tideward implications and current product policy: **do not make the Steam decision pre-launch.** The cost of building Steam capsules + screenshots + trailer before App Store data validates demand is two weeks of solo dev work that could go into the iOS post-launch patches.
+Per [../../../the-assembly-line/RESEARCH/2026-2027-genre-forecast.md](../../../the-assembly-line/RESEARCH/2026-2027-genre-forecast.md) §Tideward implications and current product policy: **do not make the Steam decision pre-launch.** The cost of building Steam capsules + screenshots + trailer before App Store data validates demand is two weeks of solo dev work that could go into the iOS post-launch patches.
 
 Re-evaluation gate, **T+12 months from App Store launch**, based on:
 1. **iOS post-launch CVR.** If App Store visit-to-install is north of 5% sustained, the audience is there.
@@ -191,5 +191,5 @@ If all four signals fire green at T+12mo, re-open this file and begin Steam asse
 - [Languages Supported on Steam - Steamworks Documentation](https://partner.steamgames.com/doc/store/localization/languages)
 - [Graphical Asset Rules - Steamworks Documentation](https://partner.steamgames.com/doc/store/assets/rules)
 - [Steam increases Store image requirements - gamedeveloper.com](https://www.gamedeveloper.com/business/steam-increases-store-image-requirements-details-phase-out-of-old-specs)
-- Companion: [App Store screenshot blueprint](../../the-assembly-line/RESEARCH/screenshot-blueprint-strategy.md)
-- Companion: [2026-2027 genre forecast](../../the-assembly-line/RESEARCH/2026-2027-genre-forecast.md)
+- Companion: [App Store screenshot blueprint](../../../the-assembly-line/RESEARCH/screenshot-blueprint-strategy.md)
+- Companion: [2026-2027 genre forecast](../../../the-assembly-line/RESEARCH/2026-2027-genre-forecast.md)
